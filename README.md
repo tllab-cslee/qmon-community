@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  ### 🛠️ Skills
+  ### 🛠️ Skills
   <img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-3484D2?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -40,53 +40,38 @@
 ## QMon 사용자화면 예시
 
 <div align="center">
-<div class="grp-title">
-              <div>DashBoard</div>
-              <div>Admin</div>
-            </div>
+  <strong>DashBoard</strong> | <strong>Admin</strong>
 </div>
 
 ![grop1](/image/qmon_grp01.png)
 
-<div class="flex grp-title">
-              <div>Monitoring</div>
-              <div>Sessions/Block</div>
-            </div>
+<div align="center">
+  <strong>Monitoring</strong> | <strong>Sessions/Block</strong>
+</div>
 
 ![grop2](/image/qmon_grp02.png)
 
-<div class="flex grp-title">
-              <div>History - Summary</div>
-              <div>History - Top Objects/SQL</div>
-            </div>
+<div align="center">
+  <strong>History - Summary</strong> | <strong>History - Top Objects/SQL</strong>
+</div>
 
 ![grop3](/image/qmon_grp03.png)
 
-<div class="flex grp-title">
-              <div>Script - 스크립트 조회</div>
-              <div>Script - 스크립트 추가</div>
-            </div>
+<div align="center">
+  <strong>Script - 스크립트 조회</strong> | <strong>Script - 스크립트 추가</strong>
+</div>
 
 ![grop4](/image/qmon_grp04.png)
 
 ##
+
 ### 정식 버전 기능 (License 발급 필요)
 
-<div class="flex grp-title">
-              <div>Diagnostic - Report</div>
-              <div>Diagnostic - 상세보고서</div>
-            </div>
+<div align="center">
+  <strong>Diagnostic - Report</strong> | <strong>Diagnostic - 상세보고서</strong>
+</div>
 
 ![grop5](/image/qmon_grp05.png)
-
-<style>
-.grp-title {
-    display: flex;
-    justify-content: space-around;
-    font-size: 15px;
-    font-weight: bold;
-}
-</style>
 
 ##
 
