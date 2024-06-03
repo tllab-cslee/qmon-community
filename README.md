@@ -8,7 +8,7 @@
 
 > 커뮤니티 버전 설치만 제공합니다.
 
-> 정식버전 도입 문의 : yhcho@cslee.co.kr, sypark@cslee.co.kr
+> 정식버전 도입 문의 : sypark@cslee.co.kr
 
 ##
 
@@ -82,6 +82,6 @@
 
 ### 솔루션 정식버전 도입 관련
 - 정식버전 도입을 원하시는 고객께서는 아래 연락처로 문의 부탁드립니다.
-- yhcho@cslee.co.kr, sypark@cslee.co.kr
+- sypark@cslee.co.kr 박성용 영업이사
 - 02-307-0182
 - https://cslee.co.kr
